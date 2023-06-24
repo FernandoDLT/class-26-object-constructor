@@ -6,7 +6,7 @@ let pizza = {}
 
 pizza.size = 'large'
 pizza.toppings = ['spinach', 'mushrooms', 'pepperoni', 'basil']
-pizza.crust = 'NY Style'
+pizza.crust = 'thin'
 pizza.sauce = 'extra'
 
 pizza.estimatedDeliveryTime = function() {
